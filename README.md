@@ -133,8 +133,8 @@ Example:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Saritalitu23)
-- Twitter: [@twitterhandle](https://www.linkedin.com/in/pritikant-dhal-145977aa)
-- LinkedIn: [LinkedIn](https://twitter.com/litudhala?t=u4wb63Em_vy82OcQyHx4xQ&s=09)
+- Twitter: [@twitterhandle](https://twitter.com/litudhala?t=u4wb63Em_vy82OcQyHx4xQ&s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pritikant-dhal-145977aa)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
