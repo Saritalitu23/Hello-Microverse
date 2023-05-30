@@ -29,7 +29,7 @@ Mini Technical Project
 
 # 📖 [Hello-Microverse.] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+its my portfolio website written by using HTML & CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -166,7 +166,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please do follow me on social media mentiond above on Authors section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +175,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+If you like this project you can clone it and feel free to improve it by making a pull request. and I would like to thank Microverse for giving us the opportunity to learn and grow as developers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
